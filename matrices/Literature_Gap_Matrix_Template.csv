@@ -1,0 +1,7 @@
+Paper ID,Reference,Year,Core Focus,Proposed Methodology,Benchmark Dataset,Key Quantitative Results,Critical Limitations,Unresolved Research Gap
+[1],Author et al.,2024,Low-latency network switch telemetry,Hybrid FPGA-ASIC data plane,CAIDA Real Traffic (100 Gbps),4.2x throughput speedup,High FPGA BRAM consumption,Dynamic state reconfiguration under traffic bursts
+[2],Researcher et al.,2025,Battery SOH degradation estimation,Physics-Informed Transformer (PINN),NASA PCoE Battery Benchmark,RMSE < 0.012 on discharge cycles,Requires stationary thermal conditions,Cross-temperature generalization
+[3],[Study 3],2024,,,,,,
+[4],[Study 4],2025,,,,,,
+[5],[Study 5],2026,,,,,,
+[Our Work],Proposed Study,2026,[Target Problem],[Proposed Mechanism],[Evaluation Benchmark],[Expected % Gain],[Resolved Failure Mode],[Addressed Research Frontier]

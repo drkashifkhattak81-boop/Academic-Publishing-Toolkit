@@ -1,18 +1,18 @@
-# ? LaTeX to Word (OMML / Alt+=) Math Cheat Sheet
+# ⚡ LaTeX to Word (OMML / Alt+=) Math Cheat Sheet
 
 > **The Ultimate Guide to Typing Lightning-Fast Native Equations in Microsoft Word**  
 > *Forget clumsy equation builder mouse-clicks. Use Word's built-in linear math syntax (`Alt + =`) to typeset academic formulas in seconds.*
 
 ---
 
-## ?? How to Use Word Linear Math Mode
+## 🚀 How to Use Word Linear Math Mode
 1. In Microsoft Word, press **`Alt + =`** (Windows) or **`Ctrl + =`** (macOS) to open an equation block.
 2. Type the shortcut command (e.g., `\alpha`, `x^2`, `\sqrt(x)`).
-3. Press the **`Spacebar`** ? Word immediately converts your linear text into native rendered **OMML (Office Math Markup Language)**!
+3. Press the **`Spacebar`** — Word immediately converts your linear text into native rendered **OMML (Office Math Markup Language)**!
 
 ---
 
-## ?? 1. Fractions, Roots & Powers
+## 🧮 1. Fractions, Roots & Powers
 
 | Mathematical Meaning | Visual Preview | Word `Alt+=` Shortcut | Spacebar Trigger |
 | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-## ??? 2. Greek Letters
+## 🏛️ 2. Greek Letters
 
 | Symbol | LaTeX / Word Input | Symbol | LaTeX / Word Input | Symbol | LaTeX / Word Input |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -43,7 +43,7 @@
 
 ---
 
-## ?? 3. Calculus, Integrals & Limits
+## 📈 3. Calculus, Integrals & Limits
 
 | Operation | LaTeX / Word Syntax | Result / Explanation |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 
 ---
 
-## ?? 4. Summations, Products & Operators
+## 🔢 4. Summations, Products & Operators
 
 | Operation | Word `Alt+=` Code | Note |
 | :--- | :--- | :--- |
@@ -72,7 +72,7 @@
 
 ---
 
-## ?? 5. Vectors, Accents & Annotations
+## 🔲 5. Vectors, Accents & Annotations
 
 | Mathematical Type | Word Shortcut | How to Trigger in Word |
 | :--- | :--- | :--- |
@@ -82,11 +82,11 @@
 | **Tilde** | `x\tilde` + `Space` + `Space` | Type `x\tilde` then press Space twice: $\tilde{x}$ |
 | **Time Derivative Dot**| `x\dot` + `Space` + `Space` | Type `x\dot` then press Space twice: $\dot{x}$ |
 | **Second Derivative** | `x\ddot` + `Space` + `Space` | Type `x\ddot` then press Space twice: $\ddot{x}$ |
-| **Bold Matrix/Vector** | Select variable $\rightarrow$ `Ctrl + B` | Renders upright bold $\mathbf{W}$ |
+| **Bold Matrix/Vector** | Select variable → `Ctrl + B` | Renders upright bold $\mathbf{W}$ |
 
 ---
 
-## ?? 6. Matrices & Systems of Equations
+## 🧱 6. Matrices & Systems of Equations
 
 ### $2 \times 2$ Matrix in Word:
 Type:
@@ -112,7 +112,7 @@ Press `Space` to build a clean two-branch piecewise bracket!
 
 ---
 
-## ?? 7. Equation Numbering Right-Aligned Trick in Word
+## 📏 7. Equation Numbering Right-Aligned Trick in Word
 In IEEE and Elsevier papers, equations must be centered with numbers aligned on the far right: `(1)`.
 
 **The Shortcut:**
@@ -123,7 +123,7 @@ In IEEE and Elsevier papers, equations must be centered with numbers aligned on 
 
 ---
 
-## ? Tired of Retyping Complex Formulas?
+## ⚡ Tired of Retyping Complex Formulas?
 
 Converting an entire LaTeX paper with 50+ nested equations into native Word OMML can take **days of tedious manual typing**.
 

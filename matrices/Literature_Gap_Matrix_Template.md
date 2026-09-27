@@ -1,18 +1,18 @@
-# ?? Literature Gap & Baseline Matrix Template
+# 📊 Literature Gap & Baseline Matrix Template
 
 > **Structured Empirical Tracking Matrix for Systematic Literature Reviews & Related Work Sections**  
 > *Use this matrix to track state-of-the-art baselines, compare experimental benchmarks, and uncover clear research gaps.*
 
 ---
 
-## ?? How to Use This Matrix
+## 🧭 How to Use This Matrix
 When drafting Section II (Related Work / Literature Review) of an IEEE, ACM, or Elsevier journal paper, reviewers demand a **comparative synthesis table**. This table prevents sequential summary traps (*"Paper A did this, Paper B did that"*) and builds an undeniable justification for your paper's contribution.
 
 You can also download the comma-separated version: [`Literature_Gap_Matrix_Template.csv`](./Literature_Gap_Matrix_Template.csv) for Excel or Google Sheets.
 
 ---
 
-## ?? The Synthesis Matrix
+## 📋 The Synthesis Matrix
 
 | Paper ID | Reference & Year | Core Focus / Problem | Proposed Methodology / Model | Benchmark Dataset & Protocol | Key Quantitative Results | Critical Limitations & Failure Modes | Unresolved Research Gap |
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ You can also download the comma-separated version: [`Literature_Gap_Matrix_Templ
 
 ---
 
-## ?? How to Translate This Table into Section II Text
+## 💡 How to Translate This Table into Section II Text
 
 Once your table is populated, use this 3-step synthesis formula:
 1. **Thematic Grouping:** Group studies by methodology (e.g., *"Foundational architectures [1], [2] focus on hardware acceleration, whereas recent approaches [3], [4] prioritize algorithmic optimization."*)
@@ -34,13 +34,13 @@ Once your table is populated, use this 3-step synthesis formula:
 
 ---
 
-## ? Automate Literature Discovery & Gap Synthesis
+## ⚡ Automate Literature Discovery & Gap Synthesis
 
 Searching, vetting, and extracting baseline variables from 10+ Q1 papers takes **30+ hours of manual reading**.
 
 [![Automate with ManuscriptOS Literature Synthesizer](https://img.shields.io/badge/Automate_With-ManuscriptOS_Literature_Synthesizer-2563eb?style=for-the-badge&logo=googlescholar)](https://manuscriptos.io/?utm_source=github&utm_medium=lead_magnet&utm_campaign=academic_publishing_toolkit)
 
 Use **[ManuscriptOS Literature Review Synthesizer](https://manuscriptos.io/?utm_source=github&utm_medium=lead_magnet&utm_campaign=academic_publishing_toolkit)** to:
-* Search 250M+ OpenAlex research papers filtered strictly to **Q1 journals (2024?2026)**.
+* Search 250M+ OpenAlex research papers filtered strictly to **Q1 journals (2024–2026)**.
 * Verify 100% active Crossref DOIs with zero hallucinated references.
 * Generate a complete, ready-to-publish 3-subsection literature review and comparison matrix automatically!
